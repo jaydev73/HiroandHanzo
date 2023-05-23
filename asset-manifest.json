@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/HiroandHanzo/static/css/main.7ac5c566.chunk.css",
-    "main.js": "/HiroandHanzo/static/js/main.b5493076.chunk.js",
-    "main.js.map": "/HiroandHanzo/static/js/main.b5493076.chunk.js.map",
+    "main.css": "/HiroandHanzo/static/css/main.290b6165.chunk.css",
+    "main.js": "/HiroandHanzo/static/js/main.0a7e164e.chunk.js",
+    "main.js.map": "/HiroandHanzo/static/js/main.0a7e164e.chunk.js.map",
     "runtime-main.js": "/HiroandHanzo/static/js/runtime-main.3311db97.js",
     "runtime-main.js.map": "/HiroandHanzo/static/js/runtime-main.3311db97.js.map",
     "static/js/2.5c5fea4a.chunk.js": "/HiroandHanzo/static/js/2.5c5fea4a.chunk.js",
     "static/js/2.5c5fea4a.chunk.js.map": "/HiroandHanzo/static/js/2.5c5fea4a.chunk.js.map",
     "index.html": "/HiroandHanzo/index.html",
-    "precache-manifest.d15585af37b8ba9e70d3ae815e23285e.js": "/HiroandHanzo/precache-manifest.d15585af37b8ba9e70d3ae815e23285e.js",
+    "precache-manifest.f722d644e8d8f060be3fb829c6b4cc02.js": "/HiroandHanzo/precache-manifest.f722d644e8d8f060be3fb829c6b4cc02.js",
     "service-worker.js": "/HiroandHanzo/service-worker.js",
-    "static/css/main.7ac5c566.chunk.css.map": "/HiroandHanzo/static/css/main.7ac5c566.chunk.css.map",
+    "static/css/main.290b6165.chunk.css.map": "/HiroandHanzo/static/css/main.290b6165.chunk.css.map",
     "static/js/2.5c5fea4a.chunk.js.LICENSE.txt": "/HiroandHanzo/static/js/2.5c5fea4a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3311db97.js",
     "static/js/2.5c5fea4a.chunk.js",
-    "static/css/main.7ac5c566.chunk.css",
-    "static/js/main.b5493076.chunk.js"
+    "static/css/main.290b6165.chunk.css",
+    "static/js/main.0a7e164e.chunk.js"
   ]
 }
