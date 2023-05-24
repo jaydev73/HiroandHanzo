@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b0702a4e918fb204287f134d87534a2",
+    "revision": "4fe6c07328fde545e0fd389fadb38dc4",
     "url": "/HiroandHanzo/index.html"
   },
   {
