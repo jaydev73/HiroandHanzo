@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/HiroandHanzo/static/css/main.8d0c7d76.chunk.css",
+    "main.css": "/HiroandHanzo/static/css/main.0bc63be5.chunk.css",
     "main.js": "/HiroandHanzo/static/js/main.0a7e164e.chunk.js",
     "main.js.map": "/HiroandHanzo/static/js/main.0a7e164e.chunk.js.map",
     "runtime-main.js": "/HiroandHanzo/static/js/runtime-main.3311db97.js",
@@ -8,15 +8,15 @@
     "static/js/2.5c5fea4a.chunk.js": "/HiroandHanzo/static/js/2.5c5fea4a.chunk.js",
     "static/js/2.5c5fea4a.chunk.js.map": "/HiroandHanzo/static/js/2.5c5fea4a.chunk.js.map",
     "index.html": "/HiroandHanzo/index.html",
-    "precache-manifest.1688a194932ddd1aefac32a6f592f755.js": "/HiroandHanzo/precache-manifest.1688a194932ddd1aefac32a6f592f755.js",
+    "precache-manifest.fc0d9ba795c8bb660f5a54235be9211e.js": "/HiroandHanzo/precache-manifest.fc0d9ba795c8bb660f5a54235be9211e.js",
     "service-worker.js": "/HiroandHanzo/service-worker.js",
-    "static/css/main.8d0c7d76.chunk.css.map": "/HiroandHanzo/static/css/main.8d0c7d76.chunk.css.map",
+    "static/css/main.0bc63be5.chunk.css.map": "/HiroandHanzo/static/css/main.0bc63be5.chunk.css.map",
     "static/js/2.5c5fea4a.chunk.js.LICENSE.txt": "/HiroandHanzo/static/js/2.5c5fea4a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3311db97.js",
     "static/js/2.5c5fea4a.chunk.js",
-    "static/css/main.8d0c7d76.chunk.css",
+    "static/css/main.0bc63be5.chunk.css",
     "static/js/main.0a7e164e.chunk.js"
   ]
 }
