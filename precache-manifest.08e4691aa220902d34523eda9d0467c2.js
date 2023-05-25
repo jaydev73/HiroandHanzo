@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41a3fc4962eac446fd0845a6ad90cdbb",
+    "revision": "868946e696a2292987e1a753ba5bf25e",
     "url": "/HiroandHanzo/index.html"
   },
   {
-    "revision": "6e3c1c65d2bfa382c9ad",
-    "url": "/HiroandHanzo/static/css/main.3ffbaf4f.chunk.css"
+    "revision": "255684d4dfc292ddb2a5",
+    "url": "/HiroandHanzo/static/css/main.2115c1d8.chunk.css"
   },
   {
     "revision": "199cdf07e4f964587d96",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HiroandHanzo/static/js/2.5c5fea4a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6e3c1c65d2bfa382c9ad",
+    "revision": "255684d4dfc292ddb2a5",
     "url": "/HiroandHanzo/static/js/main.4ee4cdce.chunk.js"
   },
   {
